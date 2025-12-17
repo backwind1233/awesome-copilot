@@ -1,5 +1,5 @@
-id: awesome-copilot
-name: Awesome Copilot
+id: appmod-test
+name: AppMod Test
 description: "Meta prompts that help you discover and generate curated GitHub Copilot chat modes, collections, instructions, prompts, and agents."
 tags: [github-copilot, discovery, meta, prompt-engineering, agents]
 items:
